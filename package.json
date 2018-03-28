@@ -1,0 +1,19 @@
+{
+  "name": "gl-cli",
+  "version": "0.0.1",
+  "description": "基于GL-ui的脚手架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "gl-cli": "index.js"
+  },
+  "dependencies": {
+    "commander": "^2.15.1",
+    "git-clone": "^0.1.0",
+    "shelljs": "^0.8.1"
+  }
+}
